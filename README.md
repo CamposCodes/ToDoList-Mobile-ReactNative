@@ -1,7 +1,7 @@
 # Sobre o Aplicativo
 ## To Do List Mobile
 
-### Utilizando React Native, implementei uma versão móvel de uma To Do List, uma aplicação que permite gerenciar suas tarefas de forma prática e organizada. Com esta aplicação, você terá controle total sobre suas atividades diárias, garantindo que nada seja esquecido.
+**Utilizando React Native, implementei uma versão móvel de uma To Do List, uma aplicação que permite gerenciar suas tarefas de forma prática e organizada. Com esta aplicação, você terá controle total sobre suas atividades diárias, garantindo que nada seja esquecido.**
 
 O objetivo principal deste aplicativo é oferecer uma experiência simples e intuitiva, permitindo que você adicione, edite e exclua tarefas de forma fácil. Com uma interface amigável e recursos eficientes, a To Do List Mobile se torna uma ferramenta indispensável para o seu dia a dia.
 
